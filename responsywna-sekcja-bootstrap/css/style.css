@@ -3,3 +3,6 @@
     font-size: 35px;
     opacity: 70%;
 }
+p, h3 {
+    opacity: 60%
+}
